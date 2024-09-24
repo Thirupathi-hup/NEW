@@ -1,12 +1,11 @@
 In this project, let's build a **Nxt Trendz - Cart Features** .
 
 
-AUTHORIZED USERNAME AND PASSWORD
+### AUTHORIZED USERNAME AND PASSWORD
 <br/>
-USERNAME :rahul
+ USERNAME :rahul
 <br/>
 PASSWORD:rahul@2021
-
 
 
 ### Refer to the video below:
